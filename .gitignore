@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output
+/build
+/dist
+
+# Environment files
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# SQLite database
+/database/*.db
+
+# Generated plots/images
+/data_processing/*.png
+
+# Misc
+.DS_Store
+.vscode/
